@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Flying Fish",
+  "base_artist": "FANTASTICS from EXILE TRIBE",
+  "createdAt": "2026-02-25T16:09:08.418363Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flying Fish",
+      "artist": "A Great Big Pile Of Leaves",
+      "has_synced": true,
+      "path": "select/01_Flying_Fish_A_Great_Big_Pile_Of_Leaves.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flying Fish",
+      "artist": "Chinese Football",
+      "has_synced": false,
+      "path": "select/02_Flying_Fish_Chinese_Football.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flying Fish",
+      "artist": "Asha Puthli",
+      "has_synced": false,
+      "path": "select/03_Flying_Fish_Asha_Puthli.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flying Fish",
+      "artist": "PASSEPIED",
+      "has_synced": true,
+      "path": "select/04_Flying_Fish_PASSEPIED.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flying Fish",
+      "artist": "Sion Jung",
+      "has_synced": true,
+      "path": "select/05_Flying_Fish_Sion_Jung.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flying Fish",
+      "artist": "Sion",
+      "has_synced": true,
+      "path": "select/06_Flying_Fish_Sion.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flying Fish",
+      "artist": "Clinic",
+      "has_synced": true,
+      "path": "select/07_Flying_Fish_Clinic.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flying Fish",
+      "artist": "Sion",
+      "has_synced": true,
+      "path": "select/08_Flying_Fish_Sion.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Oyster and the Flying Fish",
+      "artist": "Kevin Ayers & The Whole World",
+      "has_synced": false,
+      "path": "select/09_The_Oyster_and_the_Flying_Fish_Kevin_Ayers_&_The_Whole_World.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Oyster and the Flying Fish",
+      "artist": "Kevin Ayers",
+      "has_synced": false,
+      "path": "select/10_The_Oyster_and_the_Flying_Fish_Kevin_Ayers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Oyster And The Flying Fish (2003 Remastered Version)",
+      "artist": "Kevin Ayers",
+      "has_synced": false,
+      "path": "select/11_The_Oyster_And_The_Flying_Fish_(2003_Remastered_Version)_Kevin_Ayers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flying Fish (Flying Fish)",
+      "artist": "Sion",
+      "has_synced": true,
+      "path": "select/12_Flying_Fish_(Flying_Fish)_Sion.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flying Fish",
+      "artist": "FANTASTICS from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/13_Flying_Fish_FANTASTICS_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Flying Fish (Alexis Taylor & Pilooski remix)",
+      "artist": "Paul Weller",
+      "has_synced": true,
+      "path": "select/14_Flying_Fish_(Alexis_Taylor_&_Pilooski_remix)_Paul_Weller.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flying Fish",
+      "artist": "FANTASTICS from EXILE TRIBE",
+      "has_synced": false,
+      "path": "select/pl_01_Flying_Fish_FANTASTICS_from_EXILE_TRIBE.txt"
+    }
+  ]
+}
